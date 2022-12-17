@@ -1,6 +1,8 @@
 # strompreisbremse
 Static Webpages to calculate the german electricity costs from january 2023 on.
 
+Deployment: https://preisbremse.stromdao.de/
+
 ## Maintainer / Imprint
 <addr>
 <a href="https://stromdao.de/">STROMDAO GmbH</a><br/>
