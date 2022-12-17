@@ -1,0 +1,6 @@
+[{
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target" : { "namespace": "android_app", "package_name": "de.stromdao.preisbremse.twa",
+                     "sha256_cert_fingerprints": ["7B:A9:75:EE:AD:28:48:E3:E8:35:09:CA:72:3B:FD:CF:43:2F:EF:27:C6:E3:7C:7B:01:BB:2A:DC:B1:09:01:D7"] }
+      }
+]
